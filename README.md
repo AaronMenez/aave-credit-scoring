@@ -73,7 +73,9 @@ features["target"] = 1000 - features["n_liquidations"] * 100  # dummy target
 model = train_model(features)
 
 
-Score Wallets
+## Score Wallets
+
+
 bash
 Copy
 Edit
